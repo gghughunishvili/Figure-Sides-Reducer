@@ -1,0 +1,28 @@
+.calculation-form, .calculation-form-answer{
+	display: inline-block;
+}
+
+.calculate-wrapper, .answer-wrapper{
+	text-align: center;
+}
+
+.answer-wrapper{
+	display: none;
+}
+
+label{
+	font-size: 25px;
+}
+
+label span{
+	font-size: 30px;
+	color:green;
+}
+
+.image-wrapper{
+	position: absolute;
+	width: 400px;
+	height: 400px;
+	top: 100px;
+	left: 20px;
+}
